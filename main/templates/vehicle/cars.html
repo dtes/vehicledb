@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KZ Vehicle Database</title>
+    <link rel="stylesheet" href="static/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="static/main.css">
+</head>
+<body>
+
+<div class="" id="header">
+    <div id="first">
+        KZ Vehicle DataBase
+    </div>
+    <div class="row" id="second">
+        <div class="col-md-1">
+            <a href="/">Главная</a>
+        </div>
+        <div class="col-md-2">
+            Список автотранпортов
+        </div>
+    </div>
+</div>
+
+<div class="container" id="content">
+    <div style="padding: 15px 0 15px 0; color: silver">
+        Список автотранпортов
+    </div>
+    <div class="row">
+        <form action="/cars" class="form-inline">
+            <div class="form-group">
+                <input type="text" name="nmb" value="{{nmb}}" class="form-control col-md-12" placeholder="Введите номер">
+            </div>
+            <button type="submit" class="btn btn-primary">поиск</button>
+        </form>
+    </div>
+
+    <br>
+    {% for car in cars %}
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-4 ">
+            <img class="img-responsive img-thumbnail" src="static/images/{{car.img}}" alt="Car image">
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-8 ">
+            <div style="color: silver">{{ car.nmb }}</div>
+            <div style="display: flex; flex-direction: column">
+                <div style="display: flex; justify-content: space-between">
+                    <div style="display: flex">{{ car.name }}</div>
+                    <div style="display: flex">Владелец: {{ car.owner }}</div>
+                </div>
+                <div style="display: flex; justify-content: space-between">
+                    <div style="display: flex">Год выпуска: {{ car.year }}</div>
+                    <div style="display: flex"></div>
+                </div>
+                <br>
+
+                <table class="table table-striped">
+                    <tr>
+                        <th>Сумма</th>
+                        <th>Оплатить до</th>
+                        <th>Статус</th>
+                    </tr>
+                    {% for shtraf in car.shtrafs %}
+                    <tr>
+                        <td>{{ shtraf.sum }}</td>
+                        <td>{{ shtraf.pay_before }}</td>
+                        <td>{{ shtraf.status }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+
+        </div>
+    </div>
+    <br>
+    {% endfor %}
+</div>
+
+<div class="container" id="footer">
+
+</div>
+
+</body>
+</html>

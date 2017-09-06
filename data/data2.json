@@ -1,0 +1,752 @@
+[
+  {
+    "model": "main.shtraf",
+    "pk": 2,
+    "fields": {
+      "sum": 24610,
+      "status": 0,
+      "pay_before": "2017-05-23",
+      "car": 23
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 3,
+    "fields": {
+      "sum": 16642,
+      "status": 0,
+      "pay_before": "2016-12-28",
+      "car": 32
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 4,
+    "fields": {
+      "sum": 24794,
+      "status": 0,
+      "pay_before": "2017-01-29",
+      "car": 8
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 5,
+    "fields": {
+      "sum": 7221,
+      "status": 0,
+      "pay_before": "2016-07-25",
+      "car": 29
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 6,
+    "fields": {
+      "sum": 14829,
+      "status": 1,
+      "pay_before": "2017-02-17",
+      "car": 31
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 7,
+    "fields": {
+      "sum": 25910,
+      "status": 0,
+      "pay_before": "2017-03-30",
+      "car": 6
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 8,
+    "fields": {
+      "sum": 27690,
+      "status": 1,
+      "pay_before": "2017-04-16",
+      "car": 33
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 9,
+    "fields": {
+      "sum": 21399,
+      "status": 1,
+      "pay_before": "2016-05-06",
+      "car": 38
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 10,
+    "fields": {
+      "sum": 9458,
+      "status": 1,
+      "pay_before": "2016-11-18",
+      "car": 28
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 11,
+    "fields": {
+      "sum": 29840,
+      "status": 0,
+      "pay_before": "2016-08-13",
+      "car": 29
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 12,
+    "fields": {
+      "sum": 17248,
+      "status": 0,
+      "pay_before": "2016-11-15",
+      "car": 30
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 13,
+    "fields": {
+      "sum": 22740,
+      "status": 0,
+      "pay_before": "2017-04-04",
+      "car": 3
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 14,
+    "fields": {
+      "sum": 10519,
+      "status": 1,
+      "pay_before": "2017-04-02",
+      "car": 15
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 15,
+    "fields": {
+      "sum": 29123,
+      "status": 1,
+      "pay_before": "2017-04-14",
+      "car": 8
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 16,
+    "fields": {
+      "sum": 24966,
+      "status": 0,
+      "pay_before": "2016-10-02",
+      "car": 21
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 17,
+    "fields": {
+      "sum": 14365,
+      "status": 1,
+      "pay_before": "2017-03-28",
+      "car": 22
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 18,
+    "fields": {
+      "sum": 22199,
+      "status": 0,
+      "pay_before": "2016-07-16",
+      "car": 35
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 19,
+    "fields": {
+      "sum": 19083,
+      "status": 0,
+      "pay_before": "2016-12-08",
+      "car": 21
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 20,
+    "fields": {
+      "sum": 23633,
+      "status": 1,
+      "pay_before": "2016-03-01",
+      "car": 3
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 21,
+    "fields": {
+      "sum": 16014,
+      "status": 0,
+      "pay_before": "2017-02-10",
+      "car": 13
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 22,
+    "fields": {
+      "sum": 19635,
+      "status": 1,
+      "pay_before": "2017-04-17",
+      "car": 39
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 23,
+    "fields": {
+      "sum": 16973,
+      "status": 0,
+      "pay_before": "2016-08-25",
+      "car": 36
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 24,
+    "fields": {
+      "sum": 28189,
+      "status": 1,
+      "pay_before": "2016-01-01",
+      "car": 10
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 25,
+    "fields": {
+      "sum": 22900,
+      "status": 0,
+      "pay_before": "2016-10-02",
+      "car": 14
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 26,
+    "fields": {
+      "sum": 23484,
+      "status": 0,
+      "pay_before": "2017-05-11",
+      "car": 16
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 27,
+    "fields": {
+      "sum": 29717,
+      "status": 1,
+      "pay_before": "2016-05-07",
+      "car": 29
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 28,
+    "fields": {
+      "sum": 24750,
+      "status": 0,
+      "pay_before": "2016-02-23",
+      "car": 3
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 29,
+    "fields": {
+      "sum": 25870,
+      "status": 0,
+      "pay_before": "2016-09-07",
+      "car": 25
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 30,
+    "fields": {
+      "sum": 24165,
+      "status": 0,
+      "pay_before": "2016-11-27",
+      "car": 34
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 31,
+    "fields": {
+      "sum": 25252,
+      "status": 1,
+      "pay_before": "2016-11-11",
+      "car": 31
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 32,
+    "fields": {
+      "sum": 6514,
+      "status": 0,
+      "pay_before": "2016-12-11",
+      "car": 40
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 33,
+    "fields": {
+      "sum": 16207,
+      "status": 1,
+      "pay_before": "2016-12-07",
+      "car": 39
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 34,
+    "fields": {
+      "sum": 16650,
+      "status": 0,
+      "pay_before": "2016-04-02",
+      "car": 19
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 35,
+    "fields": {
+      "sum": 29080,
+      "status": 0,
+      "pay_before": "2016-04-26",
+      "car": 22
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 36,
+    "fields": {
+      "sum": 24470,
+      "status": 1,
+      "pay_before": "2017-01-15",
+      "car": 35
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 37,
+    "fields": {
+      "sum": 13400,
+      "status": 1,
+      "pay_before": "2016-06-26",
+      "car": 4
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 38,
+    "fields": {
+      "sum": 19368,
+      "status": 0,
+      "pay_before": "2016-02-08",
+      "car": 34
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 39,
+    "fields": {
+      "sum": 10145,
+      "status": 0,
+      "pay_before": "2016-06-19",
+      "car": 15
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 40,
+    "fields": {
+      "sum": 10964,
+      "status": 1,
+      "pay_before": "2016-03-21",
+      "car": 30
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 41,
+    "fields": {
+      "sum": 13336,
+      "status": 1,
+      "pay_before": "2017-03-26",
+      "car": 37
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 42,
+    "fields": {
+      "sum": 29296,
+      "status": 1,
+      "pay_before": "2016-01-19",
+      "car": 2
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 43,
+    "fields": {
+      "sum": 17426,
+      "status": 1,
+      "pay_before": "2017-01-05",
+      "car": 20
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 44,
+    "fields": {
+      "sum": 6784,
+      "status": 0,
+      "pay_before": "2017-02-26",
+      "car": 7
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 45,
+    "fields": {
+      "sum": 8409,
+      "status": 0,
+      "pay_before": "2016-12-25",
+      "car": 15
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 46,
+    "fields": {
+      "sum": 6271,
+      "status": 0,
+      "pay_before": "2016-03-22",
+      "car": 18
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 47,
+    "fields": {
+      "sum": 9356,
+      "status": 1,
+      "pay_before": "2016-06-12",
+      "car": 31
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 48,
+    "fields": {
+      "sum": 11228,
+      "status": 1,
+      "pay_before": "2017-05-08",
+      "car": 8
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 49,
+    "fields": {
+      "sum": 14443,
+      "status": 1,
+      "pay_before": "2016-12-10",
+      "car": 23
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 50,
+    "fields": {
+      "sum": 14640,
+      "status": 0,
+      "pay_before": "2016-06-25",
+      "car": 44
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 51,
+    "fields": {
+      "sum": 20237,
+      "status": 0,
+      "pay_before": "2017-01-12",
+      "car": 32
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 52,
+    "fields": {
+      "sum": 22112,
+      "status": 0,
+      "pay_before": "2016-07-14",
+      "car": 20
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 53,
+    "fields": {
+      "sum": 8528,
+      "status": 0,
+      "pay_before": "2016-01-16",
+      "car": 33
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 54,
+    "fields": {
+      "sum": 11470,
+      "status": 1,
+      "pay_before": "2016-09-18",
+      "car": 39
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 55,
+    "fields": {
+      "sum": 25303,
+      "status": 1,
+      "pay_before": "2016-01-13",
+      "car": 41
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 56,
+    "fields": {
+      "sum": 17499,
+      "status": 0,
+      "pay_before": "2016-01-07",
+      "car": 15
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 57,
+    "fields": {
+      "sum": 16395,
+      "status": 0,
+      "pay_before": "2016-03-25",
+      "car": 27
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 58,
+    "fields": {
+      "sum": 8366,
+      "status": 1,
+      "pay_before": "2016-04-27",
+      "car": 39
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 59,
+    "fields": {
+      "sum": 29368,
+      "status": 1,
+      "pay_before": "2017-02-11",
+      "car": 20
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 60,
+    "fields": {
+      "sum": 18247,
+      "status": 0,
+      "pay_before": "2017-04-21",
+      "car": 36
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 61,
+    "fields": {
+      "sum": 26334,
+      "status": 1,
+      "pay_before": "2016-01-21",
+      "car": 35
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 62,
+    "fields": {
+      "sum": 21916,
+      "status": 0,
+      "pay_before": "2016-02-16",
+      "car": 11
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 63,
+    "fields": {
+      "sum": 11073,
+      "status": 1,
+      "pay_before": "2016-12-10",
+      "car": 38
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 64,
+    "fields": {
+      "sum": 22631,
+      "status": 0,
+      "pay_before": "2017-01-07",
+      "car": 32
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 65,
+    "fields": {
+      "sum": 27533,
+      "status": 0,
+      "pay_before": "2016-04-17",
+      "car": 38
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 66,
+    "fields": {
+      "sum": 9744,
+      "status": 0,
+      "pay_before": "2017-03-30",
+      "car": 23
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 67,
+    "fields": {
+      "sum": 22623,
+      "status": 0,
+      "pay_before": "2016-08-24",
+      "car": 41
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 68,
+    "fields": {
+      "sum": 25355,
+      "status": 0,
+      "pay_before": "2017-02-03",
+      "car": 39
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 69,
+    "fields": {
+      "sum": 20117,
+      "status": 0,
+      "pay_before": "2017-05-01",
+      "car": 40
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 70,
+    "fields": {
+      "sum": 6392,
+      "status": 0,
+      "pay_before": "2016-12-04",
+      "car": 2
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 71,
+    "fields": {
+      "sum": 27874,
+      "status": 0,
+      "pay_before": "2016-03-20",
+      "car": 25
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 72,
+    "fields": {
+      "sum": 21411,
+      "status": 1,
+      "pay_before": "2017-03-05",
+      "car": 16
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 73,
+    "fields": {
+      "sum": 25554,
+      "status": 1,
+      "pay_before": "2017-03-07",
+      "car": 10
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 74,
+    "fields": {
+      "sum": 23066,
+      "status": 1,
+      "pay_before": "2016-08-25",
+      "car": 44
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 75,
+    "fields": {
+      "sum": 20304,
+      "status": 0,
+      "pay_before": "2016-02-17",
+      "car": 24
+    }
+  },
+  {
+    "model": "main.shtraf",
+    "pk": 76,
+    "fields": {
+      "sum": 6067,
+      "status": 0,
+      "pay_before": "2017-01-22",
+      "car": 16
+    }
+  }
+]

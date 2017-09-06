@@ -1,0 +1,497 @@
+[
+  {
+    "model": "main.car",
+    "pk": 2,
+    "fields": {
+      "name": "Mercedes",
+      "img": "2.jpg",
+      "year": 2010,
+      "nmb": "001AA01",
+      "owner": "Акылбек Омаров"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 3,
+    "fields": {
+      "name": "Mercedes S500",
+      "img": "3.jpg",
+      "year": 2015,
+      "nmb": "001AAA02",
+      "owner": "Ержан Бртанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 4,
+    "fields": {
+      "name": "Lexus LX470",
+      "img": "4.jpg",
+      "year": 2012,
+      "nmb": "005OOO05",
+      "owner": "Сергей Тищенко"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 5,
+    "fields": {
+      "name": "BMW",
+      "img": "5.jpg",
+      "year": 2010,
+      "nmb": "008BMW01",
+      "owner": "Ербол Мержан"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 6,
+    "fields": {
+      "name": "Mercedes",
+      "img": "2.jpg",
+      "year": 2010,
+      "nmb": "001AA01",
+      "owner": "Акылбке Омаров"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 7,
+    "fields": {
+      "name": "BMW",
+      "img": "9.jpg",
+      "year": 2005,
+      "nmb": "X888XXX",
+      "owner": "Николай Васюк"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 8,
+    "fields": {
+      "name": "Москвич",
+      "img": "10.png",
+      "year": 1980,
+      "nmb": "001AAA02",
+      "owner": "Куаныш Койшыбаев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 9,
+    "fields": {
+      "name": "Mercedes",
+      "img": "11.jpg",
+      "year": 2010,
+      "nmb": "353AEA02",
+      "owner": "Бауыржан Таскалиев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 10,
+    "fields": {
+      "name": "HUNDAI ELENTRA",
+      "img": "13.jpg",
+      "year": 2012,
+      "nmb": "533BA02",
+      "owner": "Нурсултан Куспанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 11,
+    "fields": {
+      "name": "Ford",
+      "img": "14.jpg",
+      "year": 2010,
+      "nmb": "817CMA09",
+      "owner": "Нурхат Куспанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 12,
+    "fields": {
+      "name": "Lada sedan",
+      "img": "15.jpg",
+      "year": 2010,
+      "nmb": "A777AAA",
+      "owner": "Канат Жакенов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 13,
+    "fields": {
+      "name": "Lexus",
+      "img": "16.jpg",
+      "year": 2010,
+      "nmb": "009KNA09",
+      "owner": "Нурлан Тембаев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 14,
+    "fields": {
+      "name": "Suzuki",
+      "img": "17.jpg",
+      "year": 2010,
+      "nmb": "985FOA01",
+      "owner": "Дамир Баянаев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 15,
+    "fields": {
+      "name": "Audi 80",
+      "img": "18.jpg",
+      "year": 2000,
+      "nmb": "X313KCN",
+      "owner": "Мухамед Болысбек"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 16,
+    "fields": {
+      "name": "Lexus LX570",
+      "img": "19.jpg",
+      "year": 2010,
+      "nmb": "077AC13",
+      "owner": "Бекзат Нурханов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 17,
+    "fields": {
+      "name": "Lada",
+      "img": "20.jpg",
+      "year": 2005,
+      "nmb": "777AAA01",
+      "owner": "Дамир Оспанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 18,
+    "fields": {
+      "name": "Lexus",
+      "img": "21.png",
+      "year": 2010,
+      "nmb": "101BKA01",
+      "owner": "Кайрат Нуртас"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 19,
+    "fields": {
+      "name": "Maybach",
+      "img": "23.jpg",
+      "year": 2010,
+      "nmb": "01KZ",
+      "owner": "БОРТ №1"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 20,
+    "fields": {
+      "name": "Mercedes",
+      "img": "24.jpg",
+      "year": 2012,
+      "nmb": "550AZA08",
+      "owner": "Гильермо Ригондо"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 21,
+    "fields": {
+      "name": "Mercedes",
+      "img": "25.jpg",
+      "year": 2010,
+      "nmb": "001XAN02",
+      "owner": "Сауль Альварес"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 22,
+    "fields": {
+      "name": "Mercedes",
+      "img": "26.jpg",
+      "year": 2005,
+      "nmb": "063CVA02",
+      "owner": "Мануель Меркес"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 23,
+    "fields": {
+      "name": "BMW",
+      "img": "27.jpg",
+      "year": 2010,
+      "nmb": "333AAA02",
+      "owner": "Джон Джонс"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 24,
+    "fields": {
+      "name": "Tayota",
+      "img": "28.jpg",
+      "year": 2010,
+      "nmb": "M777DTM",
+      "owner": "Александр Густавсон"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 25,
+    "fields": {
+      "name": "Some car",
+      "img": "30.jpg",
+      "year": 2010,
+      "nmb": "C584EYM",
+      "owner": "Расул Мирзаев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 26,
+    "fields": {
+      "name": "Lexus",
+      "img": "31.jpg",
+      "year": 2013,
+      "nmb": "888WWW08",
+      "owner": "Куат Хамит"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 27,
+    "fields": {
+      "name": "Lexus",
+      "img": "32.png",
+      "year": 2010,
+      "nmb": "888SSS13",
+      "owner": "Бекболат Тилеухан"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 28,
+    "fields": {
+      "name": "Mercedes G",
+      "img": "35.jpg",
+      "year": 2010,
+      "nmb": "A500XEN",
+      "owner": "Арман Досжан"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 29,
+    "fields": {
+      "name": "Mercedes",
+      "img": "36.jpg",
+      "year": 2015,
+      "nmb": "222DDD02",
+      "owner": "Ерхат Нуржанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 30,
+    "fields": {
+      "name": "BMW",
+      "img": "38.jpg",
+      "year": 2004,
+      "nmb": "050BMW02",
+      "owner": "Дархан Еспанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 31,
+    "fields": {
+      "name": "Mercedes",
+      "img": "39.jpg",
+      "year": 2016,
+      "nmb": "010VP01",
+      "owner": "Айнур Турсынбаева"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 32,
+    "fields": {
+      "name": "Lada",
+      "img": "46.jpg",
+      "year": 2001,
+      "nmb": "750BHA14",
+      "owner": "Айгул Иманбаева"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 33,
+    "fields": {
+      "name": "Lexus",
+      "img": "47.jpg",
+      "year": 2010,
+      "nmb": "200DCA14",
+      "owner": "Каракат Абилдина"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 34,
+    "fields": {
+      "name": "Bentley",
+      "img": "48.jpg",
+      "year": 2017,
+      "nmb": "007KAZ02",
+      "owner": "Марат Тажин"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 35,
+    "fields": {
+      "name": "Mercedes",
+      "img": "49.jpg",
+      "year": 2006,
+      "nmb": "902CDA07",
+      "owner": "Арман Оспанов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 36,
+    "fields": {
+      "name": "Toyota",
+      "img": "51.jpg",
+      "year": 2010,
+      "nmb": "999DLA12",
+      "owner": "Айкын Толепберген"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 37,
+    "fields": {
+      "name": "Mercedes",
+      "img": "52.jpg",
+      "year": 2013,
+      "nmb": "011KKK02",
+      "owner": "Акбота Керимбекова"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 38,
+    "fields": {
+      "name": "Mercedes",
+      "img": "53.jpg",
+      "year": 2014,
+      "nmb": "Z055ZZ",
+      "owner": "Рысбек Мейрам"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 39,
+    "fields": {
+      "name": "Lada",
+      "img": "54.jpg",
+      "year": 2005,
+      "nmb": "101AXA07",
+      "owner": "Антон Пинчук"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 40,
+    "fields": {
+      "name": "Rolls Royce",
+      "img": "55.jpg",
+      "year": 2000,
+      "nmb": "S390VX",
+      "owner": "Денис Тен"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 41,
+    "fields": {
+      "name": "Toyota Prado",
+      "img": "56.jpg",
+      "year": 2009,
+      "nmb": "A123ABN",
+      "owner": "Василий Левит"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 42,
+    "fields": {
+      "name": "Fiat",
+      "img": "57.jpg",
+      "year": 2010,
+      "nmb": "601HLA02",
+      "owner": "Данияп Елеусинов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 43,
+    "fields": {
+      "name": "KIA",
+      "img": "58.jpg",
+      "year": 2007,
+      "nmb": "A451ZCO",
+      "owner": "Марат Омаров"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 44,
+    "fields": {
+      "name": "BMW",
+      "img": "59.jpg",
+      "year": 2010,
+      "nmb": "A111UD",
+      "owner": "Акылбай Кенесов"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 45,
+    "fields": {
+      "name": "Mercedes",
+      "img": "60.jpg",
+      "year": 2015,
+      "nmb": "E111PE177",
+      "owner": "Кенес Ракишев"
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 46,
+    "fields": {
+      "name": "BMW",
+      "img": "61.jpg",
+      "year": 2010,
+      "nmb": "A888MZM",
+      "owner": "Элон Маск"
+    }
+  }
+]
